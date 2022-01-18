@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(24, 24, 24);
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+
+}
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+    text-align: justify;
+
+
+}
+
+
